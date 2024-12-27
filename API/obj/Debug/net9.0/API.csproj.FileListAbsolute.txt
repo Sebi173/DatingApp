@@ -151,3 +151,4 @@ C:\Users\sebas\Desktop\Projects\DatingApp\API\bin\Debug\net9.0\System.IdentityMo
 C:\Users\sebas\Desktop\Projects\DatingApp\API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\sebas\Desktop\Projects\DatingApp\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\sebas\Desktop\Projects\DatingApp\API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebas\Desktop\Projects\DatingApp\API\obj\Debug\net9.0\API.sourcelink.json
